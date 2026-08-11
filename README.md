@@ -1,1 +1,1 @@
-Primeiro Arquivo do conflito
+Conflitos corrigidos #1
