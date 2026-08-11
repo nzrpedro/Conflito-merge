@@ -1,1 +1,1 @@
-Merge aconteceu e o teste foi um sucesso
+Edit do arquivo do segundo user
