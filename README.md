@@ -1,1 +1,1 @@
-Testando conflito no Github
+Merge aconteceu e o teste foi um sucesso
