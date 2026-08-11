@@ -1,1 +1,1 @@
-Edit do arquivo do segundo user
+Conflitos corrigidos #1
