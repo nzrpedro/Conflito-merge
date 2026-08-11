@@ -1,1 +1,1 @@
-Merge aconteceu e o teste foi um sucesso
+Primeiro Arquivo do conflito
